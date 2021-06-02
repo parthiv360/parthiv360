@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
         MAIL:-parthivsarkar360@gmail.com
         
-- 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
+
 <!---
 parthiv360/parthiv360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
