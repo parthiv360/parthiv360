@@ -41,7 +41,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthiv360&theme=tokyonight&count_private=true&show_icons=true" alt="parthiv360" /></p>
-
+  <br />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthiv360&langs_count=6&theme=tokyonight" alt="parthiv360" /></p>
 </details>
 
 [website]: https://parthiv360.herokuapp.com/
