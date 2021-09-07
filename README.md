@@ -6,7 +6,7 @@
 
 ## I'm a Developer and a Tech-Enthusiat!!
 
-- 🔭 I just launched my first Full-Stack Website: [Career-Path][course]!
+- 🔭 I just launched my first Full-Stack Website: [Career-Path][my_website]!
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to watch anime and play football/cricket.
