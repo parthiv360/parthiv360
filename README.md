@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.parthiv360.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthiv360&theme=algolia&count_private=true&show_icons=true" alt="parthiv360" /></p>
 
 </details>
 
