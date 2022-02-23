@@ -6,9 +6,10 @@
 
 ## I'm a Developer and a Tech-Enthusiat!!
 
-- 🔭 I just launched my first Full-Stack Website: [Career-Path][my_website]!
+- 🔭 I just launched my NEW Full-Stack Website: [BIT-MART][my_website]!
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate with other developers
+- https://logodix.com/logo/601045.jpg   Interested in Competitve Programming and Web Development
 - ⚡ Fun fact: I love to watch anime and play football/cricket.
 
 ### Connect with me:
@@ -46,7 +47,7 @@
 </details>
 
 [website]: https://parthiv360.herokuapp.com/
-[my_website]: https://path-careerpath.herokuapp.com/
+[my_website]: https://bit-mart.herokuapp.com/
 [instagram]: https://www.instagram.com/_._hollowwww_._/
 [linkedin]:https://www.linkedin.com/in/parthiv-sarkar-0a754b203/
 
