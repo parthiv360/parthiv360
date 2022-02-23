@@ -9,7 +9,7 @@
 - 🔭 I just launched my NEW Full-Stack Website: [BIT-MART][my_website]!
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate with other developers
-- https://logodix.com/logo/601045.jpg   Interested in Competitve Programming and Web Development
+- 👯 Interested in Competitve Programming and Web Development
 - ⚡ Fun fact: I love to watch anime and play football/cricket.
 
 ### Connect with me:
