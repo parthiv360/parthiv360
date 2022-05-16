@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/parthiv-sarkar-0a754b203/" target="_blank"> PARTHIV SARKAR 👋</a></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=25&color=D63918&center=true&vCenter=true&lines=Programmer;CP+Enthusiast;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=D63918&center=true&vCenter=true&width=900&height=110&lines=Programmer;CP+Enthusiast;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 A bit about Myself, I am a 3rd year under-graduate at <b>Birla Institute of Technology, Mesra</b>. My branch is <b>Information Technology.</b>
 My interest lies in <b>Competitive Programming, Data Structure and Algorithms and Full Stack web development.</b> Also keen to learn about <b>Machine Learning and Python.</b>
