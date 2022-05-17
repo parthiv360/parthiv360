@@ -42,7 +42,18 @@ Currently I am doing Competitive Programming in C++.I have basic knowledge of C 
 |   [My Portfolio](https://parthiv360.herokuapp.com/)   | A simple portfolio website which tells details about my interests, projects and achievements.Tech Stack used: HTML,CSS,JAVASCRIPT,PYTHON(DJANGO) |
 
 <br></br>
-
+<h1 align="center">My Coding Profiles</h1>
+<table>
+<tr>
+<td>
+<img align="center" src="https://codeforces-stats-api.herokuapp.com/stats?username=parthivsarkar360&theme=2" alt="parthiv-sarkar" />
+</td>
+<td>
+<img align="center" src="https://leetcode.card.workers.dev/?username=parthivsarkar360&theme=nord" alt="parthiv-sarkar" />
+</td>
+</tr>
+</table>
+<br></br>
 <h1 align="center">Let's Get Connected</h1>
 
 I am active on Linkedin and Discord. You can reach out to me.</p>
