@@ -45,9 +45,9 @@ Currently I am doing Competitive Programming in C++.I have basic knowledge of C 
 <h1 align="center">My Coding Profiles</h1>
 <table>
 <tr>
-<td>
+<!-- <td>
 <img align="center" src="https://codeforces-stats-api.herokuapp.com/stats?username=parthivsarkar360&theme=2" alt="parthiv-sarkar" />
-</td>
+</td> -->
 <td>
 <img align="center" src="https://leetcode.card.workers.dev/?username=parthivsarkar360&theme=nord" alt="parthiv-sarkar" />
 </td>
