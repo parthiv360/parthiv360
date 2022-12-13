@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=D63918&center=true&vCenter=true&width=900&height=110&lines=Programmer;CP+Enthusiast;Full+Stack+Web+Developer)
 
 A bit about Myself, I am a 3rd year under-graduate at <b>Birla Institute of Technology, Mesra</b>. My branch is <b>Information Technology.</b>
-My interest lies in <b>Competitive Programming, Data Structure and Algorithms and Full Stack web development.</b> Also keen to learn about <b>Machine Learning and Python.</b>
+My interest lies in <b>Competitive Programming, Data Structure and Algorithms and Full Stack web development.</b> Also keen to learn about <b>DEVOPS and Python.</b>
 Currently I am mostly active in various coding platforms like <b>Codeforces, Atcoder and Leetcode.</b>
 I love watching Anime and playing Football and Cricket. ⚡
 
